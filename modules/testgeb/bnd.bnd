@@ -1,0 +1,4 @@
+Bundle-Activator: com.liferay.test.geb.GebTestActivator
+Bundle-Name: testgeb
+Bundle-SymbolicName: com.liferay.test.geb
+Bundle-Version: 1.0.0
